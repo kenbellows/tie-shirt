@@ -39,11 +39,11 @@ Something like this:
 +-------+------------------------------------------------------------------+-------+
 </pre>
 
-(1) Shirt:    this will be filled with a pattern or solid color, independently from
+1. Shirt:    this will be filled with a pattern or solid color, independently from
               the tie
-(2) Tie:      this will be filled with a pattern or solid color as well, independently
+2. Tie:      this will be filled with a pattern or solid color as well, independently
               from the shirt
-(3) Swatches: clipped patterns taken from photographs or made in the pattern designer
+3. Swatches: clipped patterns taken from photographs or made in the pattern designer
 
 
 ## Planned Features
